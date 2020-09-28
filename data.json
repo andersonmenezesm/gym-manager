@@ -1,0 +1,31 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://vivob2b2storefront",
+      "name": "Anderson Menezes",
+      "birth": 765158400000,
+      "gender": "M",
+      "services": "css, html, nodejs",
+      "created_at": 1601316296965
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://vivob2b2storefront",
+      "name": "Genival neto",
+      "birth": -26405395200000,
+      "gender": "M",
+      "services": "css, html, nodejs",
+      "created_at": 1601320030306
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://vivob2b2storefront",
+      "name": "Rebecca",
+      "birth": 755049600000,
+      "gender": "F",
+      "services": "css, html, nodejs",
+      "created_at": 1601320147696
+    }
+  ]
+}
